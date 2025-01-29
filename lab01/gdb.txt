@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. run <args>(gdb/lldb) 
+2. b(gdb/lldb)
+3. n(gdb/lldb)
+4. s(gdb/lldb)
+5. c(gdb)
+6. p(gdb/lldb)
+7. watchpoint (run program first)
+8. lldb: frame variable --no-args(fr v -a)
+9. quit
